@@ -1,13 +1,9 @@
 h1 {
-    color:rgb(184, 10, 10);
+    color:rgb(196, 11, 11);
     font-size:54px;
 }
-
-/* External internal inline kısımlarını yazmadım yaz. */
-
 .title {
     text-align: center;
-    
 }
 
 .center {
